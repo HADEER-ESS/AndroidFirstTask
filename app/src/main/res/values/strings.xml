@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task4AndroidCourse</string>
+    <string name="user_name">user name</string>
+    <string name="user_password">Password</string>
+    <string name="sign_up_for_facebook">Sign Up for Facebook</string>
+    <string name="help_center">Help Center</string>
+    <string name="log_in">Log In</string>
+    <string name="password">Password</string>
+    <string name="email_or_phone_number">Email or phone number</string>
+</resources>
